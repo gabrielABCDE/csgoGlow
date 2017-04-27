@@ -39,6 +39,9 @@ uint64_t glowInfoOffset;
 uint64_t LocalPlayerBase;
 uint64_t playerBase;
 
+LocalPlayer: 10f1948
+EntityList : 10fda98
+    
 uint64_t m_iGlowIndex       = 0xAC10;
 bool statBool = true;
 
